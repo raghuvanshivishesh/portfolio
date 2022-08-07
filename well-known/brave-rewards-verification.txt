@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: visheshraghuvanshi.me
-Token: 9e063f1fee622c7dafffff33f7bc5ce99edcb749d8ec008c6afb58e275d1dcd4
